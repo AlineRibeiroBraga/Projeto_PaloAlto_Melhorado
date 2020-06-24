@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualFindByTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:25" hostname="aline" time="0.057">
+  <properties/>
+  <testcase name="findByDocumentNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualFindByTest" time="0.005"/>
+  <testcase name="findByIdExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualFindByTest" time="0.041"/>
+  <testcase name="findByIdNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualFindByTest" time="0.004"/>
+  <testcase name="findByDocumentExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualFindByTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

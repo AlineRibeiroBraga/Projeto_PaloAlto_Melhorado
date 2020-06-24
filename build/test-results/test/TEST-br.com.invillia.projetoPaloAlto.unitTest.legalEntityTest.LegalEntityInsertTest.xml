@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:25" hostname="aline" time="0.282">
+  <properties/>
+  <testcase name="InsertOkayWithIndividualsNotSave()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.153"/>
+  <testcase name="insertDocumentAreadyExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.015"/>
+  <testcase name="InsertOkayWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.024"/>
+  <testcase name="inserMainAddressValidator()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.024"/>
+  <testcase name="InsertOkayWithInvalidedDocumentIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.016"/>
+  <testcase name="InsertOkayWithIndividualsSaved()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.024"/>
+  <testcase name="InsertOkayWithInvalidedRgIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityInsertTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

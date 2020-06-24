@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualInsertTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:25" hostname="aline" time="0.059">
+  <properties/>
+  <testcase name="insertRgAlreadyExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualInsertTest" time="0.04"/>
+  <testcase name="insertMainAddressValidator()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualInsertTest" time="0.005"/>
+  <testcase name="insertOkay()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualInsertTest" time="0.006"/>
+  <testcase name="insertDocumentAlreadyExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualInsertTest" time="0.003"/>
+  <testcase name="insertMainAddressValidatorNoMainAddress()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualInsertTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

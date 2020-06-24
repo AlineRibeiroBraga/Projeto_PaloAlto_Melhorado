@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:23" hostname="aline" time="1.077">
+  <properties/>
+  <testcase name="updateByIdNoOneMainAddressIndividual()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.448"/>
+  <testcase name="updateByIdInvalidedId()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.053"/>
+  <testcase name="updateByDocumentNotFound()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.011"/>
+  <testcase name="updateByIdMoreThanOneMainAddressLegalEntity()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.018"/>
+  <testcase name="updateByIdExistsWithExistsAddressWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.032"/>
+  <testcase name="updateByDocumentExistsWithoutExistsAddressWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.016"/>
+  <testcase name="updateByIdInvalidedPartnersDifferent()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.032"/>
+  <testcase name="updateByDocumentNoOneMainAddressIndividual()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.022"/>
+  <testcase name="updateByDocumentNotAticve()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.015"/>
+  <testcase name="updateByIdMoreThanOneMainAddressIndividual()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.043"/>
+  <testcase name="updateByIdExistsWithoutExistsAddressWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.015"/>
+  <testcase name="updateByDocumentExistsWithExistsAddressWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.022"/>
+  <testcase name="updateByDocumentInvalidedPartnersDifferent()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.033"/>
+  <testcase name="updateByDocumentMoreThanOneMainAddressIndividual()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.018"/>
+  <testcase name="updateByIdExistsWithExistsAddressWithIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.051"/>
+  <testcase name="updateByDocumentInvalidedDocument()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.023"/>
+  <testcase name="updateByIdNotFound()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.013"/>
+  <testcase name="updateByDocumentInvalidedPartnersEmpty1()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.017"/>
+  <testcase name="updateByDocumentInvalidedPartnersEmpty2()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.014"/>
+  <testcase name="updateByDocumentNoOneMainAddressLegalEntity()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.009"/>
+  <testcase name="updateByDocumentExistsWithExistsAddressWithIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.023"/>
+  <testcase name="updateByDocumentMoreThanOneMainAddressLegalEntity()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.009"/>
+  <testcase name="updateByIdNoOneMainAddressLegalEntity()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.011"/>
+  <testcase name="updateByIdInvalidedPartnersEmpty1()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.012"/>
+  <testcase name="updateByIdInvalidedPartnersEmpty2()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.019"/>
+  <testcase name="updateByIdNotAticve()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityUpdateTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

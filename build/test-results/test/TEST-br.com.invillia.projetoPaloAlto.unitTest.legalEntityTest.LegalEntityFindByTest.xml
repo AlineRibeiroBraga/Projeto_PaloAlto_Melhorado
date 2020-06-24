@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:25" hostname="aline" time="0.153">
+  <properties/>
+  <testcase name="findByIdExistsWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" time="0.072"/>
+  <testcase name="findByDocumentNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" time="0.005"/>
+  <testcase name="findByDocumentExistsWithIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" time="0.051"/>
+  <testcase name="findByIdNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" time="0.002"/>
+  <testcase name="findByDocumentExistsWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" time="0.005"/>
+  <testcase name="findByIdExistsWithIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityFindByTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

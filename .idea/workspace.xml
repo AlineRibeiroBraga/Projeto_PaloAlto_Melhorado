@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a14cfc4-a951-46d8-ad70-68ca1ee50018" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Projeto_Palo_Alto" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Projeto_Palo_Alto" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Projeto_Palo_Alto" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cBEFVPTDZSPKOOl9lBfmJILnbi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.invillia.projetoPaloAlto.mapper.interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProjetoPaloAltoApplication">
+    <configuration name="ProjetoPaloAltoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.invillia.projetoPaloAlto.ProjetoPaloAltoApplication" />
+      <module name="Projeto_Palo_Alto.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.invillia.projetoPaloAlto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Bad request to insert a legal entity without individuals" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/legalEntity/InsertWithoutIndividualsBadRequest.feature" />
+      <option name="GLUE" value="br.com.invillia.projetoPaloAlto.integration.legalEntity cucumber.api.spring" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Projeto_Palo_Alto.test" />
+      <option name="NAME_FILTER" value="^Bad request to insert a legal entity without individuals$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Bad request to insert a legal entity without individuals$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Bad request to insert a legal entity without individuals" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Insert a Legal Entity" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/legalEntity/InsertWithoutIndividuals.feature" />
+      <option name="GLUE" value="br.com.invillia.projetoPaloAlto.integration.legalEntity cucumber.api.spring" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Projeto_Palo_Alto.test" />
+      <option name="NAME_FILTER" value="^Insert a Legal Entity$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Insert a Legal Entity$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Insert a Legal Entity" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Insert legal entity with individuals" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/legalEntity/InsertWithIndividuals.feature" />
+      <option name="GLUE" value="br.com.invillia.projetoPaloAlto.integration.legalEntity cucumber.api.spring" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Projeto_Palo_Alto.test" />
+      <option name="NAME_FILTER" value="^Insert legal entity with individuals$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Insert legal entity with individuals$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Insert legal entity with individuals" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Update a Legal Entity without partners" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/legalEntity/UpdateByDocumentWithoutIndividuals.feature" />
+      <option name="GLUE" value="br.com.invillia.projetoPaloAlto.integration.legalEntity cucumber.api.spring" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Projeto_Palo_Alto.test" />
+      <option name="NAME_FILTER" value="^Update a Legal Entity without partners$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Update a Legal Entity without partners$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Update a Legal Entity without partners" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProjetoPaloAltoApplication" />
+      <item itemvalue="Cucumber Java.Scenario: Insert legal entity with individuals" />
+      <item itemvalue="Cucumber Java.Scenario: Bad request to insert a legal entity without individuals" />
+      <item itemvalue="Cucumber Java.Scenario: Insert a Legal Entity" />
+      <item itemvalue="Cucumber Java.Scenario: Update a Legal Entity without partners" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Update a Legal Entity without partners" />
+        <item itemvalue="Cucumber Java.Scenario: Insert a Legal Entity" />
+        <item itemvalue="Cucumber Java.Scenario: Bad request to insert a legal entity without individuals" />
+        <item itemvalue="Cucumber Java.Scenario: Insert legal entity with individuals" />
+        <item itemvalue="Application.ProjetoPaloAltoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a14cfc4-a951-46d8-ad70-68ca1ee50018" name="Default Changelist" comment="" />
+      <created>1589993482807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589993482807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590170149786">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="447" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590170149786" />
+    <state x="2641" y="189" width="468" height="726" key="#com.intellij.ide.util.MemberChooser" timestamp="1592946058219">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2641" y="189" width="468" height="726" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592946058219" />
+    <state x="2547" y="243" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592946337361">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2547" y="243" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592946337361" />
+    <state x="2568" y="54" key="#xdebugger.evaluate" timestamp="1591736089687">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2568" y="54" key="#xdebugger.evaluate/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591736089687" />
+    <state x="692" y="80" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1590172210184" />
+    <state x="2595" y="215" width="530" height="633" key="FileChooserDialogImpl" timestamp="1592491048217">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2595" y="215" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592491048217" />
+    <state x="718" y="237" width="530" height="633" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1590685845123" />
+    <state width="1864" height="289" key="GridCell.Tab.0.bottom" timestamp="1593022543069">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="285" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591733452732" />
+    <state width="1864" height="289" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593022543069" />
+    <state width="1797" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1590246839662" />
+    <state width="1864" height="289" key="GridCell.Tab.0.center" timestamp="1593022543069">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="285" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591733452732" />
+    <state width="1864" height="289" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593022543069" />
+    <state width="1797" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1590246839622" />
+    <state width="1864" height="289" key="GridCell.Tab.0.left" timestamp="1593022543068">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="285" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591733452732" />
+    <state width="1864" height="289" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593022543068" />
+    <state width="1797" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1590246839600" />
+    <state width="1864" height="289" key="GridCell.Tab.0.right" timestamp="1593022543069">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="285" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591733452732" />
+    <state width="1864" height="289" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593022543069" />
+    <state width="1797" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1590246839643" />
+    <state width="1864" height="312" key="GridCell.Tab.1.bottom" timestamp="1591821843423">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="312" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591821843423" />
+    <state width="1797" height="130" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1590178421086" />
+    <state width="1864" height="312" key="GridCell.Tab.1.center" timestamp="1591821843423">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="312" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591821843423" />
+    <state width="1797" height="130" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1590178421086" />
+    <state width="1864" height="312" key="GridCell.Tab.1.left" timestamp="1591821843423">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="312" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591821843423" />
+    <state width="1797" height="130" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1590178421085" />
+    <state width="1864" height="312" key="GridCell.Tab.1.right" timestamp="1591821843423">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="312" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591821843423" />
+    <state width="1797" height="130" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1590178421086" />
+    <state x="286" y="175" key="SettingsEditor" timestamp="1590010727181">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="286" y="175" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1590010727181" />
+    <state x="723" y="137" width="531" height="830" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590067518028">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="723" y="137" width="531" height="830" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1590067518028" />
+    <state width="750" height="540" key="javadoc.popup" timestamp="1592944315945">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="750" height="540" key="javadoc.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592944315945" />
+    <state x="153" y="27" width="1671" height="1053" key="new project wizard" timestamp="1590685847071">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="153" y="27" width="1671" height="1053" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1590685847071" />
+    <state x="2609" y="441" width="714" height="195" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1591820096674">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2609" y="441" width="714" height="195" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591820096674" />
+    <state x="732" y="457" width="512" height="190" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590171800058" />
+    <state x="675" y="247" width="626" height="611" key="refactoring.ChangeSignatureDialog" timestamp="1590157330503">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="675" y="247" width="626" height="611" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590157330503" />
+    <state x="2443" y="18" width="871" height="1061" key="search.everywhere.popup" timestamp="1593010426062">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2443" y="18" width="871" height="1061" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593010426062" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1590150259590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/invillia/projetoPaloAlto/service/LegalEntityService.java</url>
+          <line>236</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/invillia/projetoPaloAlto/integration/legalEntity/UpdateByDocumentWithoutIndividuals.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/invillia/projetoPaloAlto/integration/legalEntity/UpdateByDocumentWithoutIndividuals.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/invillia/projetoPaloAlto/service/LegalEntityService.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/invillia/projetoPaloAlto/service/LegalEntityService.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/invillia/projetoPaloAlto/service/LegalEntityService.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/invillia/projetoPaloAlto/service/LegalEntityService.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Projeto_Palo_Alto$IndividualDeleteTest_and_7_more__2_.ic" NAME="IndividualDeleteTest and 7 more (2) Coverage Results" MODIFIED="1591810856339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Projeto_Palo_Alto$IndividualDeleteTest_and_7_more.ic" NAME="IndividualDeleteTest and 7 more Coverage Results" MODIFIED="1591809829722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

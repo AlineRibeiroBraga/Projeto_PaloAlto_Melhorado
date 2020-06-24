@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:24" hostname="aline" time="0.288">
+  <properties/>
+  <testcase name="deleteByDocumentNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.03"/>
+  <testcase name="deleteByDocumentWithActiveIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.172"/>
+  <testcase name="deleteByIdWithActiveIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.015"/>
+  <testcase name="deleteByDocumentWithNotActiveIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.007"/>
+  <testcase name="deleteByDocumentAlreadyDeleted()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.005"/>
+  <testcase name="deleteByIdAlreadyDeleted()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.006"/>
+  <testcase name="deleteByDocumentWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.011"/>
+  <testcase name="deleteByIdWithNotActiveIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.02"/>
+  <testcase name="deleteByIdNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.009"/>
+  <testcase name="deleteByIdtWithoutIndividuals()" classname="br.com.invillia.projetoPaloAlto.unitTest.legalEntityTest.LegalEntityDeleteTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

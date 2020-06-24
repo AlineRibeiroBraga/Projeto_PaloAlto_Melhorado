@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-06-10T17:53:25" hostname="aline" time="0.118">
+  <properties/>
+  <testcase name="updateByDocument()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.04"/>
+  <testcase name="updateByIdMoreThanOneMainAddress()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.005"/>
+  <testcase name="updateByDocumentNoMainAddress()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.006"/>
+  <testcase name="updateByDocumentMoreThanOneMainAddress()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.008"/>
+  <testcase name="updateByDocumentNotActive()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.005"/>
+  <testcase name="updateByDocumentNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.012"/>
+  <testcase name="updateById()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.008"/>
+  <testcase name="updateByDocumentInvalided()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.005"/>
+  <testcase name="updateByIdNoMainAddress()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.007"/>
+  <testcase name="updateByIdDocumentInvalided()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.009"/>
+  <testcase name="updateByIdNotActive()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.004"/>
+  <testcase name="updateByIdNotExists()" classname="br.com.invillia.projetoPaloAlto.unitTest.individualTest.IndividualUpdateTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
